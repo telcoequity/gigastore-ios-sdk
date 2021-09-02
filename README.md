@@ -160,7 +160,7 @@ import DENTGigastoreSDK
 ### Load
 
 The `load` function initializes the DENTGigastoreSDK. Please make sure to include your "SDK Key" here. 
-You can find your SDK Key in the [DENT Gigastore](https://dent.giga.store/) under "API -> Sales Channel -> iOS SDK".
+You can find your SDK Key in the [DENT Gigastore](https://dent.giga.store/) under "SDK -> iOS -> Sales Channel".
 
 ```swift
 let sdkKey = "SDK KEY"
